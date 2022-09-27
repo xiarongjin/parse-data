@@ -1,0 +1,19 @@
+{
+  "name": "parse-data",
+  "version": "1.0.0",
+  "description": "Parse data to simplify operations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiarongjin/parse-data.git"
+  },
+  "author": "xiarj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiarongjin/parse-data/issues"
+  },
+  "homepage": "https://github.com/xiarongjin/parse-data#readme"
+}
